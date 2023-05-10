@@ -1,0 +1,12 @@
+{
+  "name": "svg-icon-converter",
+  "version": "1.0.0",
+  "description": "Convert svg files into font and sprite to use as icons.",
+  "main": "src/index.js",
+  "author": "Charles Liu",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/noxblue/svg-icon-converter.git"
+  },
+  "license": "MIT"
+}
